@@ -1,0 +1,65 @@
+
+.walletWrapper {
+  border-radius: 10rpx;
+  overflow: hidden;
+}
+.walletTop {
+  height: calc(40vh - 160rpx);
+  background: linear-gradient(to bottom, #1FB7FC 0%,#7087F8 100%);
+  color: #fff;
+  text-align: center;
+  padding-top: 160rpx;
+}
+.moneyNum {
+  font-size: 60rpx;
+  font-weight: 600;
+}
+.walletMid {
+  height: 20vh;
+  display: flex;
+  justify-content: center;
+}
+.wallet-slider {
+  width: 85%;
+  height: 100%;
+  box-shadow: 0 0 14rpx #98999C;
+  position: relative;
+  top: -120rpx;
+  border-radius: 10rpx;
+  overflow: hidden;
+  z-index: 2;
+  display: flex;
+  flex-direction: row;
+  background-color: #fff;
+}
+.wallet-slider-leftLists {
+  width: 70vw;
+  display: flex;
+  flex-direction: column;
+  padding-left: 40rpx;
+  padding-top: 40rpx;
+}
+.wallet-slider-leftLists-top {
+  color: #909090;
+  font-size: 30rpx;
+}
+.wallet-slider-leftLists-bottom {
+  font-size: 60rpx;
+  font-weight: 600;
+  color: #4CA2E0;
+}
+.wallet-slider-maxPayment {
+  width: 30vw;
+  display: flex;
+  flex-direction: column;
+  padding-top: 40rpx;
+}
+.wallet-slider-maxPaymentName {
+  color: #4CA2E0;
+  font-weight: 500;
+  font-size: 1.1em;
+  padding-right: 40rpx;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}

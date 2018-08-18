@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/logs/main",
+    "pages/walletMain/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#009fff",
+    "navigationBarTitleText": "i记账",
+    "navigationBarTextStyle": "inline"
+  }
+}

@@ -1,0 +1,20 @@
+<template name="index$2fd70021">
+  <view class="_div data-v-36a61424 walletWrapper">
+    <view class="_div data-v-36a61424 walletTop">
+      <view class="_p data-v-36a61424 moneyType">还款</view>
+      <view class="_p data-v-36a61424 moneyNum">8,466.88</view>
+    </view>
+    <view class="_div data-v-36a61424 walletMid">
+      <view class="_div data-v-36a61424 wallet-slider">
+        <view class="_div data-v-36a61424 wallet-slider-leftLists">
+          <view class="_p data-v-36a61424 wallet-slider-leftLists-top">
+            <label style="color:#4CA2E0;font-size:20px" class="_span data-v-36a61424">5</label>项还款</view>
+          <view class="_p data-v-36a61424 wallet-slider-leftLists-bottom">2,000.00</view>
+        </view>
+        <view class="_div data-v-36a61424 wallet-slider-maxPayment">
+          <view class="_p data-v-36a61424 wallet-slider-maxPaymentName">蜡笔分期</view>
+        </view>
+      </view>
+    </view>
+  </view>
+</template>

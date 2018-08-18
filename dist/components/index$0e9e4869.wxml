@@ -1,0 +1,9 @@
+<template name="index$0e9e4869">
+  <view class="_div data-v-72101980">
+    <view class="_div data-v-72101980 content"> conut: {{counter}} </view>
+    <view class="_div data-v-72101980 footer">
+      <label class="_span data-v-72101980 option subtraction" bindtap="handleProxy" data-eventid="{{'0'}}" data-comkey="{{$k}}">-</label>
+      <label class="_span data-v-72101980 option add" bindtap="handleProxy" data-eventid="{{'1'}}" data-comkey="{{$k}}">+</label>
+    </view>
+  </view>
+</template>

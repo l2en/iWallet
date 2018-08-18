@@ -1,0 +1,32 @@
+
+.content {
+  height: calc(100vh - 120rpx);
+  background-color: red;
+  width: 100%;
+  font-size: 40rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}
+.footer {
+  position: absolute;
+  height: 120rpx;
+  width: 100%;
+  bottom: 0;
+  background-color: #909090;
+  border-top: 2rpx #909990 solid;
+  display: flex;
+  justify-content: space-between;
+}
+.option {
+  color: #ffffff;
+  display: flex;
+  width: 50%;
+  justify-content: center;
+  align-items: center;
+  font-size: 2em;
+}
+.subtraction {
+  border-right: 2rpx solid #fff;
+}
